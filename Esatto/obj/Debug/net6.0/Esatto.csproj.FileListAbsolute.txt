@@ -1,0 +1,15 @@
+D:\Praca\projekt\kuballa\Esatto-Jakub-Ziomek-zadanie\Esatto\bin\Debug\net6.0\Esatto.exe
+D:\Praca\projekt\kuballa\Esatto-Jakub-Ziomek-zadanie\Esatto\bin\Debug\net6.0\Esatto.deps.json
+D:\Praca\projekt\kuballa\Esatto-Jakub-Ziomek-zadanie\Esatto\bin\Debug\net6.0\Esatto.runtimeconfig.json
+D:\Praca\projekt\kuballa\Esatto-Jakub-Ziomek-zadanie\Esatto\bin\Debug\net6.0\Esatto.dll
+D:\Praca\projekt\kuballa\Esatto-Jakub-Ziomek-zadanie\Esatto\bin\Debug\net6.0\Esatto.pdb
+D:\Praca\projekt\kuballa\Esatto-Jakub-Ziomek-zadanie\Esatto\obj\Debug\net6.0\Esatto.csproj.AssemblyReference.cache
+D:\Praca\projekt\kuballa\Esatto-Jakub-Ziomek-zadanie\Esatto\obj\Debug\net6.0\Esatto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Praca\projekt\kuballa\Esatto-Jakub-Ziomek-zadanie\Esatto\obj\Debug\net6.0\Esatto.AssemblyInfoInputs.cache
+D:\Praca\projekt\kuballa\Esatto-Jakub-Ziomek-zadanie\Esatto\obj\Debug\net6.0\Esatto.AssemblyInfo.cs
+D:\Praca\projekt\kuballa\Esatto-Jakub-Ziomek-zadanie\Esatto\obj\Debug\net6.0\Esatto.csproj.CoreCompileInputs.cache
+D:\Praca\projekt\kuballa\Esatto-Jakub-Ziomek-zadanie\Esatto\obj\Debug\net6.0\Esatto.dll
+D:\Praca\projekt\kuballa\Esatto-Jakub-Ziomek-zadanie\Esatto\obj\Debug\net6.0\refint\Esatto.dll
+D:\Praca\projekt\kuballa\Esatto-Jakub-Ziomek-zadanie\Esatto\obj\Debug\net6.0\Esatto.pdb
+D:\Praca\projekt\kuballa\Esatto-Jakub-Ziomek-zadanie\Esatto\obj\Debug\net6.0\Esatto.genruntimeconfig.cache
+D:\Praca\projekt\kuballa\Esatto-Jakub-Ziomek-zadanie\Esatto\obj\Debug\net6.0\ref\Esatto.dll
